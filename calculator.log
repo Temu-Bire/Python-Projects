@@ -1,0 +1,7 @@
+2026-03-22 21:49:58,164 - INFO - Calculator started
+2026-03-22 21:50:12,452 - ERROR - Invalid number input
+2026-03-22 21:50:25,660 - ERROR - Attempted division by zero
+2026-03-22 21:51:00,820 - INFO - Multiplication: 2.0 * 4.0 = 8.0
+2026-03-22 21:51:05,828 - INFO - Calculator exited
+2026-03-22 21:52:36,656 - INFO - Calculator started
+2026-03-22 21:52:50,268 - WARNING - Invalid menu choice
